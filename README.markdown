@@ -7,9 +7,9 @@ This project implements a multi-agent framework for the **SteamNoodles** restaur
 1. **Customer Feedback Response Agent**: Analyzes the sentiment of customer reviews (positive, negative, neutral) using the Groq API and LlamaIndex, and generates polite, context-aware responses.
 2. **Sentiment Visualization Agent**: Generates bar plots of sentiment trends over a specified date range using pandas and matplotlib.
 
-**Author**: \[Your Name\]\
-**University**: \[Your University\]\
-**Year**: \[Your Year, e.g., 2025\]
+**Author**: \[Mallika ARACHCHILAGE THIMIRA PRADEEPA MALLIKA ARACHCHI\]\
+**University**: \[University of Moratuwa\]\
+**Year**: \[Second Year,2025\]
 
 ## Setup Instructions
 
