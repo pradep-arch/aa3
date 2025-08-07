@@ -115,6 +115,5 @@ date,review,sentiment
 - Ensure the `data/` folder exists and contains `restaurant_reviews.csv`.
 - The project uses the Groq free API (`llama-3.1-70b-versatile` model) for LLM tasks.
 - The sentiment visualization uses a stacked bar plot for clarity, but can be modified to a line plot if desired.
-- For larger datasets, you can use a Kaggle restaurant review dataset (e.g., search "restaurant reviews" on Kaggle).
 
 ## 
